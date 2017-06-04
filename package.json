@@ -7,9 +7,9 @@
     "start": "nodemon ./index.js --ignore node_modules/ -e js,html,css"
   },
   "author": "Chinga Chagulka <chinga.e.chaguluka@gmail.com>",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/vuejsdevelopers/vuejs-poster-shop"
+  "repository": {
+    "type": "git",
+    "url": "https://chingachaguluka@bitbucket.org/chingachaguluka/vuejspostershop.git"
   },
   "license": "UNLICENSED",
   "dependencies": {
@@ -23,6 +23,7 @@
     "vue-resource": "^1.0.3"
   },
   "devDependencies": {
+    "jscs": "^3.0.7",
     "nodemon": "^1.11.0",
     "reload": "^1.1.0"
   }
